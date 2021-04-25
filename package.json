@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Curso Platzi asincronismo con JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmoradev/asincronismo.git"
+  },
+  "author": "Carlos Mora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosmoradev/asincronismo/issues"
+  },
+  "homepage": "https://github.com/carlosmoradev/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
